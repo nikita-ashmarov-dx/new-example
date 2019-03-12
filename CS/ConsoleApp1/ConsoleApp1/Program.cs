@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1 {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("17.1.2");
+            Console.WriteLine("18.2.6");
         }
     }
 }
